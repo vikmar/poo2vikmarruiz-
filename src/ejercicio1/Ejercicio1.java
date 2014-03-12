@@ -19,6 +19,6 @@ public class Ejercicio1 {
         resultado.setVisible(true);
         
         
-        // esta no lo realizo vikmar lo hice yo 
+        // esta no lo realizo vikmar lo hice yo ...
     }
 }
