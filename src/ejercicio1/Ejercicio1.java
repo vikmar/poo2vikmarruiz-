@@ -17,8 +17,13 @@ public class Ejercicio1 {
         // TODO code application logic here
         Hipotenusa resultado = new Hipotenusa();
         resultado.setVisible(true);
-        
-        
+      
+// Ultima modificacion.        
         // esta no lo realizo vikmar lo hice yo ...
+
+        // este trozo de codigo lo realizo WladimirRodriguez
+        
+        
+
     }
 }
