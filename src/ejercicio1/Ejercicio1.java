@@ -17,5 +17,8 @@ public class Ejercicio1 {
         // TODO code application logic here
         Hipotenusa resultado = new Hipotenusa();
         resultado.setVisible(true);
+        
+        
+        // esta no lo realizo vikmar lo hice yo 
     }
 }
